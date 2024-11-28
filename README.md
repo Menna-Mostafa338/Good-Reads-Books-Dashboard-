@@ -9,8 +9,6 @@ The **Good Reads' Books Dashboard** is an interactive and visually engaging data
  ![Dashboard Screenshot](https://github.com/Menna-Mostafa338/Good-Reads-Books-Dashboard-/blob/main/sec.PNG)
 
  ![Dashboard Screenshot](https://github.com/Menna-Mostafa338/Good-Reads-Books-Dashboard-/blob/main/third.PNG)
-
- ![Dashboard Screenshot](https://github.com/Menna-Mostafa338/Good-Reads-Books-Dashboard-/blob/main/4th.PNG)
  
 ## Key Features:
 - **Data Import & Integration** 🔄  
